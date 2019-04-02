@@ -1,0 +1,16 @@
+##gff-version 3
+##sequence-region contig45 1 60000
+contig45	GlimmerHMM	mRNA	3067	12477	.	-	.	ID=contig45.path1.gene1;Name=contig45.path1.gene1
+contig45	GlimmerHMM	CDS	3067	5921	.	-	2	ID=contig45.cds1.1;Parent=contig45.path1.gene1;Name=contig45.path1.gene1;Note=final-exon
+contig45	GlimmerHMM	CDS	10803	11489	.	-	2	ID=contig45.cds1.2;Parent=contig45.path1.gene1;Name=contig45.path1.gene1;Note=internal-exon
+contig45	GlimmerHMM	CDS	11607	12477	.	-	0	ID=contig45.cds1.3;Parent=contig45.path1.gene1;Name=contig45.path1.gene1;Note=initial-exon
+contig45	GlimmerHMM	mRNA	19439	22075	.	-	.	ID=contig45.path1.gene2;Name=contig45.path1.gene2
+contig45	GlimmerHMM	CDS	19439	20272	.	-	0	ID=contig45.cds2.1;Parent=contig45.path1.gene2;Name=contig45.path1.gene2;Note=final-exon
+contig45	GlimmerHMM	CDS	21164	22075	.	-	0	ID=contig45.cds2.2;Parent=contig45.path1.gene2;Name=contig45.path1.gene2;Note=initial-exon
+contig45	GlimmerHMM	mRNA	26369	27106	.	+	.	ID=contig45.path1.gene3;Name=contig45.path1.gene3
+contig45	GlimmerHMM	CDS	26369	26654	.	+	0	ID=contig45.cds3.1;Parent=contig45.path1.gene3;Name=contig45.path1.gene3;Note=initial-exon
+contig45	GlimmerHMM	CDS	26829	27106	.	+	2	ID=contig45.cds3.2;Parent=contig45.path1.gene3;Name=contig45.path1.gene3;Note=final-exon
+contig45	GlimmerHMM	mRNA	35097	53335	.	-	.	ID=contig45.path1.gene4;Name=contig45.path1.gene4
+contig45	GlimmerHMM	CDS	35097	35186	.	-	0	ID=contig45.cds4.1;Parent=contig45.path1.gene4;Name=contig45.path1.gene4;Note=final-exon
+contig45	GlimmerHMM	CDS	38074	38202	.	-	0	ID=contig45.cds4.2;Parent=contig45.path1.gene4;Name=contig45.path1.gene4;Note=internal-exon
+contig45	GlimmerHMM	CDS	53237	53335	.	-	0	ID=contig45.cds4.3;Parent=contig45.path1.gene4;Name=contig45.path1.gene4;Note=initial-exon

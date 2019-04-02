@@ -1,0 +1,41 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	BarcodeName	ProjectName	Year	Colelcted	RootFraction	Group	CommonName	ScientificName	Description
+BS.s3.14	TGAGAGAT	GTGCCAGCAGCCGCGGTAA	533Fbar13	012815CH533F	su14	WB_Site3	B	Soil	Soil	Na	BS.3
+BS.VP.14	TGAGATAA	GTGCCAGCAGCCGCGGTAA	533Fbar14	012815CH533F	su14	VP	B	Soil	Soil	Na	Bulk.Soil.BVP
+Cp.E.VP.14	TGACGTTG	GTGCCAGCAGCCGCGGTAA	533Fbar6	012815CH533F	su14	VP	E	Monocot	"cedar sedge"	"Carex planostachys"	CP.E.VP
+Cp.NS.VP.14	TGACGTGC	GTGCCAGCAGCCGCGGTAA	533Fbar4	012815CH533F	su14	VP	N	Monocot	"cedar sedge"	"Carex planostachys"	CP.NS.VP
+Cp.R.VP.14	TGACGTGT	GTGCCAGCAGCCGCGGTAA	533Fbar5	012815CH533F	su14	VP	R	Monocot	"cedar sedge"	"Carex planostachys"	CP.R.VP
+Ja.E.s4.14	TGAGACGT	GTGCCAGCAGCCGCGGTAA	533Fbar12	012815CH533F	su14	WB_Site4	E	Dicot	"Ashe's Juniper"	"Juniperus ashei"	Ja.E.4
+Ja.N.s4.14	TGAGACAG	GTGCCAGCAGCCGCGGTAA	533Fbar10	012815CH533F	su14	WB_Site5	N	Dicot	"Ashe's Juniper"	"Juniperus ashei"	Ja.NS.4
+Ja.R.s4.14	TGAGACCA	GTGCCAGCAGCCGCGGTAA	533Fbar11	012815CH533F	su14	WB_Site6	R	Dicot	"Ashe's Juniper"	"Juniperus ashei"	Ja.R.4
+Mr.E.s3.14	TGACGGTG	GTGCCAGCAGCCGCGGTAA	533Fbar3	012815CH533F	su14	WB_Site3	E	Monocot	"seep muhly"	"Muhlenbergia reverchonii"	Mr.E.3
+Mr.N.s3.14	TGACGAAC	GTGCCAGCAGCCGCGGTAA	533Fbar1	012815CH533F	su14	WB_Site3	N	Monocot	"seep muhly"	"Muhlenbergia reverchonii"	Mr.Ns.3
+Mr.R.s3.14	TGACGCGT	GTGCCAGCAGCCGCGGTAA	533Fbar2	012815CH533F	su14	WB_Site3	R	Monocot	"seep muhly"	"Muhlenbergia reverchonii"	Mr.R.3
+Sc.E.VP.14	TGACTTCA	GTGCCAGCAGCCGCGGTAA	533Fbar9	012815CH533F	su14	VP	E	Monocot	little bluestem	"Schizachyrium scoparium"	Sc.E.VP
+Sc.N.VP.14	TGACTCGA	GTGCCAGCAGCCGCGGTAA	533Fbar7	012815CH533F	su14	VP	N	Monocot	little bluestem	"Schizachyrium scoparium"	Sc.NS.VP
+Sc.R.VP.14	TGACTTAG	GTGCCAGCAGCCGCGGTAA	533Fbar8	012815CH533F	su14	VP	R	Monocot	little bluestem	"Schizachyrium scoparium"	Sc.R.VP
+At.B.15	TTGGTGAC	GTGCCAGCAGCCGCGGTAA	533Fbar21	112015CH533F	su15	WB	B	Soil	"Texas madrone"	"Arbutus xalapensis"	AT.B.533F
+At.E.15	TTGTGATA	GTGCCAGCAGCCGCGGTAA	533Fbar24	112015CH533F	su15	WB	E	Dicot	"Texas madrone"	"Arbutus xalapensis"	AT.E.533F
+At.N.15	TTGTAGGT	GTGCCAGCAGCCGCGGTAA	533Fbar22	112015CH533F	su15	WB	N	Dicot	"Texas madrone"	"Arbutus xalapensis"	AT.N.533F
+At.R.15	TTGTCGAG	GTGCCAGCAGCCGCGGTAA	533Fbar23	112015CH533F	su15	WB	R	Dicot	"Texas madrone"	"Arbutus xalapensis"	AT.R.533F
+Ja.B.15	TTGTTAGC	GTGCCAGCAGCCGCGGTAA	533Fbar25	112015CH533F	su15	WB	B	Soil	"Ashe's Juniper"	"Juniperus ashei"	JA.B.533F
+Ja.R.15	TTGTTCAG	GTGCCAGCAGCCGCGGTAA	533Fbar26	112015CH533F	su15	WB	R	Dicot	"Ashe's Juniper"	"Juniperus ashei"	JA.R.533F
+Mr.B.15	TTGCGAAT	GTGCCAGCAGCCGCGGTAA	533Fbar17	112015CH533F	su15	WB	B	Soil	"seep muhly"	"Muhlenbergia reverchonii"	MR.B.533F
+Mr.E.15	TTGGCGCT	GTGCCAGCAGCCGCGGTAA	533Fbar20	112015CH533F	su15	WB	E	Monocot	"seep muhly"	"Muhlenbergia reverchonii"	MR.E.533F
+Mr.N.15	TTGCTAGA	GTGCCAGCAGCCGCGGTAA	533Fbar18	112015CH533F	su15	WB	N	Monocot	"seep muhly"	"Muhlenbergia reverchonii"	MR.N.533F
+Mr.R.15	TTGCTGGT	GTGCCAGCAGCCGCGGTAA	533Fbar19	112015CH533F	su15	WB	R	Monocot	"seep muhly"	"Muhlenbergia reverchonii"	MR.R.533F
+Nl.B.15	TGACTTCA	GTGCCAGCAGCCGCGGTAA	533Fbar9	112015CH533F	su15	WB	B	Soil	"devil's shoestring"	"Nolina lindheimeriana"	NL.B.533F
+Nl.E.15	TGAGACGT	GTGCCAGCAGCCGCGGTAA	533Fbar12	112015CH533F	su15	WB	E	Monocot	"devil's shoestring"	"Nolina lindheimeriana"	NL.E.533F
+Nl.N.15	TGAGACAG	GTGCCAGCAGCCGCGGTAA	533Fbar10	112015CH533F	su15	WB	N	Monocot	"devil's shoestring"	"Nolina lindheimeriana"	NL.N.533F
+Nl.R.15	TGAGACCA	GTGCCAGCAGCCGCGGTAA	533Fbar11	112015CH533F	su15	WB	R	Monocot	"devil's shoestring"	"Nolina lindheimeriana"	NL.R.533F
+Pg.B.15	TGACGTGT	GTGCCAGCAGCCGCGGTAA	533Fbar5	112015CH533F	su15	WB	B	Soil	"honey mesquite"	"Prosopis glandulosa"	PG.B.533F
+Pg.E.15	TGACTTAG	GTGCCAGCAGCCGCGGTAA	533Fbar8	112015CH533F	su15	WB	E	Dicot	"honey mesquite"	"Prosopis glandulosa"	PG.E.533F
+Pg.N.15	TGACGTTG	GTGCCAGCAGCCGCGGTAA	533Fbar6	112015CH533F	su15	WB	N	Dicot	"honey mesquite"	"Prosopis glandulosa"	PG.N.533F
+Pg.R.15	TGACTCGA	GTGCCAGCAGCCGCGGTAA	533Fbar7	112015CH533F	su15	WB	R	Dicot	"honey mesquite"	"Prosopis glandulosa"	PG.R.533F
+Ss.B.15	TGAGAGAT	GTGCCAGCAGCCGCGGTAA	533Fbar13	112015CH533F	su15	WB	B	Soil	"mescal bean"	"Sophora secundiflora"	SS.B.533F
+Ss.E.15	TGAGCCAG	GTGCCAGCAGCCGCGGTAA	533Fbar16	112015CH533F	su15	WB	E	Dicot	"mescal bean"	"Sophora secundiflora"	SS.E.533F
+Ss.N.15	TGAGATAA	GTGCCAGCAGCCGCGGTAA	533Fbar14	112015CH533F	su15	WB	N	Dicot	"mescal bean"	"Sophora secundiflora"	SS.N.533F
+Ss.R.15	TGAGATCG	GTGCCAGCAGCCGCGGTAA	533Fbar15	112015CH533F	su15	WB	R	Dicot	"mescal bean"	"Sophora secundiflora"	SS.R.533F
+Yr.B.15	TGACGAAC	GTGCCAGCAGCCGCGGTAA	533Fbar1	112015CH533F	su15	WB	B	Soil	"Texas yucca"	"Yucca rupicola"	YRF.B.533F
+Yr.E.15	TGACGTGC	GTGCCAGCAGCCGCGGTAA	533Fbar4	112015CH533F	su15	WB	E	Monocot	"Texas yucca"	"Yucca rupicola"	YRF.E.533F
+Yr.N.15	TGACGCGT	GTGCCAGCAGCCGCGGTAA	533Fbar2	112015CH533F	su15	WB	N	Monocot	"Texas yucca"	"Yucca rupicola"	YRF.N.533F
+Yr.R.15	TGACGGTG	GTGCCAGCAGCCGCGGTAA	533Fbar3	112015CH533F	su15	WB	R	Monocot	"Texas yucca"	"Yucca rupicola"	YRF.R.533F

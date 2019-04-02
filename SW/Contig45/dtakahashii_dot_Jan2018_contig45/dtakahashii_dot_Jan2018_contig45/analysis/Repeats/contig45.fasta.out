@@ -1,0 +1,152 @@
+   SW   perc perc perc  query     position in query     matching          repeat              position in repeat
+score   div. del. ins.  sequence  begin end    (left)   repeat            class/family      begin  end    (left)  ID
+
+ 1463   12.5  0.0  6.2  contig45      1   239 (59761) + rnd-5_family-2507 RC/Helitron          112    336  (299)   1  
+  446   20.1  3.9 22.4  contig45    324   554 (59446) C rnd-1_family-12   Unknown            (122)    294     99   2  
+  763    7.3  1.8  0.0  contig45    682   790 (59210) C rnd-1_family-12   Unknown            (305)    111      1   3 *
+ 4911    4.8  0.2  0.5  contig45    788  1414 (58586) C rnd-1_family-107  Unknown             (85)    716     92   4  
+  267   15.0  4.9  1.6  contig45   1417  1477 (58523) + rnd-1_family-17   Unknown                5     67   (61)   5  
+  944    4.3  0.0  0.0  contig45   1720  1836 (58164) + rnd-1_family-190  Unknown               81    197   (75)   6  
+  351    4.5  0.0  0.0  contig45   1885  1928 (58072) C rnd-1_family-185  DNA/MITE           (133)     55     12   7  
+  254   22.2  7.4  0.0  contig45   5956  6009 (53991) + rnd-1_family-52   Unknown                9     66  (751)   8  
+  451   19.8  3.8  8.5  contig45   6274  6433 (53567) + rnd-5_family-4377 Unknown              218    370   (40)   9  
+  653   11.8 17.6  0.0  contig45   6439  6557 (53443) C rnd-1_family-12   Unknown              (6)    410    271  10  
+ 1981    7.2  3.4  0.0  contig45   6589  6852 (53148) C rnd-2_family-30   RC/Helitron          (0)    610    338  11  
+ 1686   12.1  9.6  1.8  contig45   6858  7169 (52831) + rnd-2_family-30   RC/Helitron           74    409  (201)  12 *
+ 1704   12.8 23.6  1.3  contig45   6923  7311 (52689) C rnd-5_family-2507 RC/Helitron        (144)    491     17  13  
+  285   18.9  2.7  1.3  contig45   7488  7562 (52438) + rnd-5_family-8584 Unknown               18     93  (117)  14  
+  271    6.4  2.1  0.0  contig45   7567  7613 (52387) + rnd-1_family-7    Unknown                2     49 (1552)  15 *
+  432   12.0  8.3  1.1  contig45   7586  7669 (52331) + rnd-4_family-43   RC/Helitron          441    530  (409)  16 *
+ 4130    2.8  4.0  0.6  contig45   7596  8097 (51903) + rnd-4_family-193  Unknown               25    543  (723)  17  
+  240   11.1  0.0  2.2  contig45   8159  8204 (51796) C rnd-1_family-735  LINE                 (0)    348    304  18 *
+  399    1.8  5.5  0.0  contig45   8177  8231 (51769) C rnd-5_family-2948 LINE                 (0)   1562   1505  19 *
+  927   12.9 10.6  1.0  contig45   8222  8401 (51599) C rnd-1_family-78   DNA                (325)    451    255  20 *
+ 1762    1.4  1.4  0.0  contig45   8397  8616 (51384) C rnd-5_family-7583 Unknown              (2)    224      2  21  
+ 1691    8.3  1.6  1.6  contig45   8617  8874 (51126) C rnd-1_family-78   DNA                (516)    260      3  20  
+  428   12.8  1.2  3.8  contig45   8876  8956 (51044) C rnd-5_family-7583 Unknown              (1)    225    147  22 *
+ 1346    5.7  0.0  6.7  contig45   8886  9091 (50909) + rnd-5_family-16   RC/Helitron          263    455   (60)  23  
+  980   13.5  6.4  0.9  contig45   9049  9250 (50750) C rnd-5_family-4258 Unknown            (183)    296     84  24 *
+ 1426    2.8  0.0  0.0  contig45   9089  9265 (50735) + rnd-5_family-367  Unknown               31    207   (11)  25  
+  467   14.4  0.0  9.9  contig45   9242  9341 (50659) + rnd-5_family-3670 RC/Helitron          376    466  (953)  26 *
+ 1321    7.9  0.0  2.2  contig45   9263  9444 (50556) C rnd-4_family-43   RC/Helitron        (486)    453    276  27 *
+ 1825    0.4  0.0  2.7  contig45   9442  9672 (50328) + rnd-5_family-7583 Unknown                1    225    (1)  28  
+ 1104    9.7  6.5  0.0  contig45   9671  9822 (50178) C rnd-2_family-30   RC/Helitron        (194)    416    255  29 *
+ 1547    4.0  1.0  1.0  contig45   9823 10024 (49976) C rnd-1_family-94   DNA                  (1)    871    670  30 *
+ 2908    8.1 18.2  0.0  contig45  10022 10486 (49514) C rnd-1_family-94   DNA                (322)    550      1  30  
+  718   19.6 11.5  0.0  contig45  10487 10563 (49437) C rnd-3_family-63   RC/Helitron        (414)    265     45  31  
+  545   10.6  0.0  4.7  contig45  10564 10652 (49348) C rnd-1_family-26   Unknown              (0)     85      1  32  
+  718   19.6 11.5  0.0  contig45  10653 10665 (49335) C rnd-3_family-63   RC/Helitron        (410)     44      3  31  
+  566   13.5 12.5  0.0  contig45  13303 13406 (46594) + rnd-1_family-83   DNA/PIF-Harbinger    580    696  (117)  33  
+  624    5.0  2.0  1.0  contig45  13416 13516 (46484) + rnd-1_family-93   DNA                    1    102  (624)  34 *
+ 1979    3.9 16.3  0.6  contig45  13514 13795 (46205) + rnd-1_family-129  Unknown                1    326  (132)  35  
+  528    5.1  0.0  2.6  contig45  13790 13869 (46131) + rnd-1_family-41   DNA/TcMar-Mariner    837    914    (0)  36 *
+ 4085    8.5  3.8  0.5  contig45  13870 14473 (45527) + rnd-1_family-93   DNA                  100    723    (3)  37  
+ 1197   11.6  6.3  0.5  contig45  14494 14683 (45317) + rnd-5_family-1294 DNA/PIF-Harbinger    680    880    (0)  38  
+ 1582   22.8 11.0  3.8  contig45  14697 15307 (44693) + rnd-1_family-318  DNA/PIF-Harbinger     13    665  (157)  39  
+  309   19.3  0.0  0.0  contig45  15303 15359 (44641) + rnd-1_family-351  Unknown              419    475  (103)  40 *
+ 1847    5.8 11.7  1.9  contig45  15373 15655 (44345) + rnd-1_family-75   DNA/MITE              16    325  (204)  41  
+ 1763    5.9 15.4  2.2  contig45  15544 15822 (44178) C rnd-1_family-106  Unknown             (30)    331     17  42 *
+  731    6.7 22.1  1.2  contig45  15845 15980 (44020) C rnd-5_family-1809 Unknown             (90)    268    105  43 *
+ 1159    2.1  9.9  0.0  contig45  15979 16119 (43881) C rnd-1_family-89   Unknown            (276)    157      3  44  
+  454   11.4  0.0  0.0  contig45  16112 16181 (43819) + rnd-1_family-75   DNA/MITE             179    248  (281)  45 *
+  581   15.4  6.5  0.8  contig45  16441 16564 (43436) C rnd-5_family-162  Unknown             (24)    274    144  46  
+  725   14.8  5.5  0.0  contig45  16566 16693 (43307) + rnd-4_family-43   RC/Helitron          516    650  (289)  47  
+ 1266   27.5  4.1  4.6  contig45  16695 17155 (42845) + rnd-1_family-117  LINE                   1    553  (504)  48  
+ 3266    2.1  0.0  0.5  contig45  17256 17646 (42354) C rnd-1_family-44   DNA/MITE           (124)   1034    646  49  
+ 2078    3.7  0.0  0.0  contig45  17643 17885 (42115) C rnd-1_family-429  Unknown             (23)    245      3  50 *
+ 3371    7.5  4.5  1.4  contig45  17943 18413 (41587) C rnd-2_family-30   RC/Helitron         (31)    579     95  51  
+ 2210    9.2  6.0  7.4  contig45  20516 20914 (39086) + rnd-4_family-43   RC/Helitron          454    847   (92)  52 *
+ 3741    5.3  5.7  0.6  contig45  20597 21091 (38909) + rnd-4_family-193  Unknown               21    540  (726)  53  
+  380   13.7 14.9  1.2  contig45  21026 21099 (38901) C rnd-5_family-3670 RC/Helitron        (953)    466    383  54 *
+  424   13.9  0.0  4.2  contig45  22150 22224 (37776) + rnd-5_family-3921 RC/Helitron          516    587  (709)  55 *
+ 2728    5.0  9.5  2.9  contig45  22166 22556 (37444) + rnd-1_family-12   Unknown                1    416    (0)  56  
+ 1307   11.2 15.4  1.8  contig45  22397 22642 (37358) + rnd-2_family-30   RC/Helitron          271    549   (61)  57 *
+ 1503    7.1  9.6  5.4  contig45  22568 22839 (37161) C rnd-5_family-2507 RC/Helitron        (398)    237     13  58 *
+ 1696   14.8  3.7  4.5  contig45  22832 23288 (36712) C rnd-3_family-66   RC/Helitron        (510)    441     10  59  
+ 1234   16.9 17.7  0.8  contig45  23280 23659 (36341) C rnd-1_family-94   DNA                 (85)    787    338  60 *
+  557   17.7  1.4  9.0  contig45  23659 23801 (36199) + rnd-3_family-66   RC/Helitron          647    779  (172)  61 *
+  679    6.0  2.9  3.9  contig45  23943 24046 (35954) + rnd-1_family-8    RC/Helitron           35    137  (221)  62 *
+ 5641    4.9  1.9  0.3  contig45  24045 24761 (35239) + rnd-5_family-542  Unknown              173    901   (49)  63  
+ 2137    9.6 11.7  0.8  contig45  24724 25077 (34923) C rnd-1_family-4    RC/Helitron        (117)    364      1  64 *
+ 1508   12.3 19.7  1.1  contig45  24807 25110 (34890) + rnd-3_family-66   RC/Helitron          432    791  (160)  65 *
+  307   13.5  3.9  0.0  contig45  25168 25219 (34781) C rnd-5_family-18   Unknown           (1596)     56      3  66  
+ 2174   10.3  2.3  0.6  contig45  27990 28466 (31534) + rnd-4_family-888  Unknown               25    436    (0)  67  
+  342    5.1  0.0  5.1  contig45  28395 28474 (31526) C rnd-1_family-270  Unknown              (0)    488    413  68 *
+ 7823    4.4  3.4  0.9  contig45  28475 29504 (30496) + rnd-1_family-69   DNA                    2   1056    (0)  69  
+ 2186    6.0  2.8  0.0  contig45  29505 29821 (30179) C rnd-1_family-270  Unknown             (78)    410     85  68  
+ 2180    8.0  0.6  0.0  contig45  29812 30137 (29863) + rnd-4_family-544  Unknown              252    579    (0)  70 *
+ 6000    3.5  0.3  2.5  contig45  30273 31037 (28963) C rnd-1_family-51   DNA                (218)    748      1  71  
+ 1619    7.7 10.2  0.3  contig45  31152 31520 (28480) + rnd-5_family-3498 Unknown              234    652    (0)  72  
+  696   12.2  3.5  0.0  contig45  31665 31779 (28221) C rnd-1_family-35   Unknown              (6)    150     32  73 *
+  851   17.9 14.0  0.9  contig45  31776 31961 (28039) + rnd-2_family-30   RC/Helitron          369    578   (32)  74 *
+ 9713    2.6  2.8  0.1  contig45  31960 33160 (26840) + rnd-1_family-7    Unknown                2   1234  (367)  75  
+ 1799    1.0  0.5  0.0  contig45  33261 33467 (26533) + rnd-1_family-7    Unknown                1    208 (1393)  76  
+ 8899    3.3  0.8  0.6  contig45  33482 34576 (25424) + rnd-1_family-7    Unknown              504   1601    (0)  76  
+  843    9.9  0.8  0.0  contig45  34614 34734 (25266) C rnd-1_family-98   DNA/MITE             (0)    122      1  77  
+  373   10.9  0.0  0.0  contig45  35259 35313 (24687) C rnd-1_family-151  RC/Helitron          (0)    648    594  78 *
+ 1306   10.9 22.4  0.5  contig45  35305 35702 (24298) C rnd-1_family-61   RC/Helitron        (371)    631    147  79  
+ 1230    5.2  0.0  2.6  contig45  35702 35860 (24140) + rnd-3_family-63   RC/Helitron          112    266  (413)  80 *
+ 3493    7.8  1.9  0.0  contig45  35913 36399 (23601) + rnd-1_family-78   DNA                    3    498  (278)  81  
+ 2576   11.1  2.6  0.7  contig45  36394 36812 (23188) C rnd-5_family-3670 RC/Helitron          (0)   1419    993  82 *
+ 3738    4.5  5.0  6.9  contig45  36799 37344 (22656) C rnd-4_family-193  Unknown            (721)    545     10  83  
+ 1294   11.3  1.4  1.4  contig45  37327 37541 (22459) + rnd-3_family-66   RC/Helitron          271    485  (466)  84 *
+  531    0.0  0.0  1.6  contig45  37543 37605 (22395) + rnd-3_family-66   RC/Helitron          704    765  (186)  85  
+ 1964    1.7  0.4  0.0  contig45  39200 39438 (20562) + rnd-1_family-52   Unknown                5    244  (573)  86 *
+ 4460    8.5  7.8  1.3  contig45  39435 40137 (19863) + rnd-1_family-36   Unknown                1    748  (649)  87  
+ 2024    4.4  6.1  0.3  contig45  39942 40237 (19763) C rnd-1_family-206  Unknown              (0)    391     79  88 *
+ 3605    2.8  4.4  1.2  contig45  40231 40707 (19293) + rnd-1_family-7    Unknown                2    493 (1108)  89 *
+ 7860    3.5  1.9  0.1  contig45  40702 41679 (18321) + rnd-1_family-7    Unknown              606   1601    (0)  89  
+  744    1.1  1.1  0.0  contig45  41672 41762 (18238) C rnd-1_family-206  Unknown            (299)     92      1  88 *
+ 1832    1.8  0.0  0.4  contig45  41781 42007 (17993) + rnd-5_family-7583 Unknown                1    226    (0)  90  
+ 1100    1.6  0.0  0.0  contig45  42004 42128 (17872) + rnd-5_family-1061 DNA/CMC-Chapaev-3     17    141  (448)  91 *
+ 2630    3.0  6.0  1.0  contig45  42125 42493 (17507) + rnd-1_family-206  Unknown                5    391    (0)  92 *
+ 5153    8.2  3.2  0.5  contig45  42303 43045 (16955) C rnd-1_family-36   Unknown            (634)    763      1  93  
+ 4167    4.8  0.7  0.0  contig45  43062 43605 (16395) C rnd-1_family-158  Unknown             (17)    610     63  94  
+ 3422    1.7  0.0  0.0  contig45  43600 44003 (15997) + rnd-1_family-46   Unknown               81    484  (682)  95 *
+ 6870    3.0  1.9  0.0  contig45  43997 44825 (15175) C rnd-1_family-147  Unknown              (2)    845      1  96  
+  688    2.4  0.0  0.0  contig45  44817 44899 (15101) + rnd-1_family-46   Unknown              477    559  (607)  95 *
+ 3840    2.4  8.3  0.1  contig45  44898 45452 (14548) C rnd-5_family-2507 RC/Helitron          (2)    633      1  97  
+  624    8.4  5.7 23.9  contig45  45297 45453 (14547) + rnd-1_family-16   Unknown              482    615  (421)  98 *
+ 2224   13.1  7.9  0.7  contig45  45711 46101 (13899) C rnd-2_family-30   RC/Helitron          (4)    606    188  99  
+  819    6.2 20.8  0.0  contig45  46102 46245 (13755) C rnd-1_family-51   DNA                  (0)    966    793 100 *
+ 5399    4.7  0.4  9.6  contig45  46231 47030 (12970) C rnd-5_family-542  Unknown             (49)    901    169 101 *
+ 6673    3.9  0.1  0.0  contig45  47025 47828 (12172) C rnd-1_family-51   DNA                (161)    805      1 102  
+  528    8.8  3.5  0.0  contig45  47846 47938 (12062) C rnd-1_family-26   Unknown              (0)     85      1 103  
+  511   17.2  8.1  0.0  contig45  47864 47962 (12038) C rnd-5_family-3921 RC/Helitron        (690)    606    500 104 *
+ 1049    7.8  3.2  0.2  contig45  48699 48890 (11110) C rnd-1_family-501  Unknown            (573)    179      1 105  
+ 1057   17.6  2.7  3.5  contig45  48895 49153 (10847) C rnd-1_family-137  DNA/TcMar-Mariner    (7)    285     29 106  
+  471    7.6  6.1  0.0  contig45  49169 49234 (10766) + rnd-1_family-7    Unknown             1463   1532   (69) 107  
+ 3938    3.3  0.3 11.2  contig45  49248 49953 (10047) C rnd-5_family-2507 RC/Helitron          (1)    634     20 108  
+ 1761   11.5 16.4  1.6  contig45  50047 50382  (9618) C rnd-1_family-7    Unknown              (0)   1601   1225 109 *
+ 3363    4.6  0.4  0.3  contig45  50362 51059  (8941) C rnd-1_family-146  Unknown              (0)    436      1 110  
+  817   14.8 11.7  9.7  contig45  51067 51395  (8605) + rnd-4_family-43   RC/Helitron          574    901   (38) 111  
+  495    7.5 13.8  0.0  contig45  51401 51480  (8520) + rnd-1_family-68   DNA/MITE             940   1030    (0) 112  
+  292   14.3  3.1  1.5  contig45  52360 52423  (7577) + rnd-5_family-18   Unknown                3     67 (1585) 113  
+ 2732    8.6  7.3  0.9  contig45  52501 52924  (7076) + rnd-3_family-66   RC/Helitron          308    758  (193) 114  
+  432    1.9  0.0  0.0  contig45  53166 53218  (6782) C rnd-4_family-2066 DNA/MITE           (119)     53      1 115  
+ 1052    9.7  0.0  0.0  contig45  53566 53709  (6291) + rnd-1_family-149  Unknown                4    147    (0) 116  
+ 1324   16.0 15.4  1.7  contig45  54375 54685  (5315) + rnd-5_family-3670 RC/Helitron           18    370 (1049) 117  
+ 1091   13.3  2.2  0.0  contig45  54537 54716  (5284) C rnd-1_family-84   Unknown              (3)    364    181 118 *
+ 2764   13.1 10.0  1.2  contig45  54712 55239  (4761) C rnd-1_family-2    RC/Helitron        (587)    832     41 119  
+  807    6.5  0.0  1.9  contig45  55148 55257  (4743) C rnd-5_family-1369 Unknown             (47)    550    443 120 *
+  534   14.9  0.0  1.1  contig45  55261 55355  (4645) C rnd-5_family-365  Unknown            (375)    137     44 121  
+  547   21.7  0.9  0.0  contig45  56135 56240  (3760) C rnd-5_family-18   Unknown            (986)    666    560 122 *
+ 1416    4.8 23.6  0.0  contig45  56235 56442  (3558) C rnd-3_family-66   RC/Helitron        (193)    758    502 123  
+  417   15.2  9.6  2.4  contig45  56460 56574  (3426) + rnd-1_family-65   Unknown              212    334  (919) 124 *
+  944   15.2  1.8  0.6  contig45  56569 56734  (3266) + rnd-1_family-65   Unknown              453    620  (633) 124  
+ 1162    4.7  6.0  0.6  contig45  56739 56888  (3112) + rnd-3_family-66   RC/Helitron          446    603  (348) 125  
+  228   12.5 12.5  0.0  contig45  56887 56926  (3074) C rnd-5_family-542  Unknown            (676)    274    230 126 *
+  230    0.0  0.0  0.0  contig45  56908 56932  (3068) + rnd-3_family-66   RC/Helitron          705    729  (222) 125  
+ 1776   17.4  0.9 10.9  contig45  56941 57392  (2608) C rnd-3_family-66   RC/Helitron        (518)    433     23 127  
+  319   29.4  0.8  1.7  contig45  58042 58162  (1838) + rnd-1_family-0    RC/Helitron          404    523  (127) 128  
+  269   23.3  0.0  0.0  contig45  58282 58341  (1659) + rnd-1_family-2    RC/Helitron           89    148  (344) 129  
+  229   26.6  0.0  5.9  contig45  58342 58353  (1647) + rnd-5_family-542  Unknown              260    327  (623) 130  
+  281   10.0  0.0  0.0  contig45  58362 58401  (1599) + rnd-1_family-0    RC/Helitron          601    640   (10) 131  
+  472   18.1  2.1  0.0  contig45  58438 58531  (1469) + rnd-1_family-430  Unknown              383    478  (103) 132  
+  440   17.3  0.0  0.0  contig45  59082 59156   (844) + rnd-1_family-27   Unknown                2     76   (10) 133 *
+  841   13.6  6.4  0.0  contig45  59093 59232   (768) C rnd-1_family-35   Unknown              (0)    156      8 134  
+  468   10.3  0.0  4.4  contig45  59259 59329   (671) + rnd-5_family-3921 RC/Helitron          522    589  (707) 135  
+  672    7.6  1.9  1.1  contig45  59330 59365   (635) + rnd-1_family-12   Unknown               20     99  (317) 136  
+  310   15.2  1.7  0.0  contig45  59514 59572   (428) + rnd-1_family-12   Unknown               99    158  (258) 136  
+  236   19.0  6.2  1.5  contig45  59684 59747   (253) + rnd-2_family-30   RC/Helitron          273    339  (271) 137  
+ 1300    6.7  0.5  0.0  contig45  59820 59998     (2) + rnd-4_family-193  Unknown              239    416    (0) 136  

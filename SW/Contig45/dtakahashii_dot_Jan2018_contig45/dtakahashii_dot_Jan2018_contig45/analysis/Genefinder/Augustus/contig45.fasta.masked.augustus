@@ -1,0 +1,83 @@
+##gff-version 3
+# This output was generated with AUGUSTUS (version 3.2.2).
+# AUGUSTUS is a gene prediction tool written by M. Stanke (mario.stanke@uni-greifswald.de),
+# O. Keller, S. König, L. Gerischer and L. Romoth.
+# Please cite: Mario Stanke, Mark Diekhans, Robert Baertsch, David Haussler (2008),
+# Using native and syntenically mapped cDNA alignments to improve de novo gene finding
+# Bioinformatics 24: 637-644, doi 10.1093/bioinformatics/btn013
+# Sources of extrinsic information: M P 
+# reading in the file contig45_exonerate.hints ...
+# Have extrinsic information about 1 sequences (in the specified range). 
+# Initialising the parameters using config directory /home/wilson/bin/augustus-3.2.2/config/ ...
+# human version. Using default transition matrix.
+# Looks like ../src/contig45.fasta.masked is in fasta format.
+# We have hints for 1 sequence and for 1 of the sequences in the input set.
+#
+# ----- prediction on sequence number 1 (length = 60000, name = contig45) -----
+#
+# Delete group HintGroup MED26-PA, 3084-12599, mult= 1, priority= 4 12 features
+# Delete group HintGroup MED26-PB, 3084-12599, mult= 1, priority= 4 12 features
+# Deleted 2 groups because some hint was not satisfiable.
+# Predicted genes for sequence number 1 on both strands
+# start gene contig45.g1
+contig45	AUGUSTUS	gene	3067	12312	1	-	.	ID=contig45.g1
+contig45	AUGUSTUS	transcript	3067	12312	.	-	.	ID=contig45.g1.t1;Parent=contig45.g1
+contig45	AUGUSTUS	stop_codon	3067	3069	.	-	0	Parent=contig45.g1.t1
+contig45	AUGUSTUS	CDS	3067	5921	.	-	2	ID=contig45.g1.t1.cds;Parent=contig45.g1.t1
+contig45	AUGUSTUS	CDS	10803	11489	.	-	2	ID=contig45.g1.t1.cds;Parent=contig45.g1.t1
+contig45	AUGUSTUS	CDS	11607	12312	.	-	0	ID=contig45.g1.t1.cds;Parent=contig45.g1.t1
+contig45	AUGUSTUS	start_codon	12310	12312	.	-	0	Parent=contig45.g1.t1
+# protein sequence = [MVGIQQTATESLPHPSQIVSQPTQLVSDFVKSAAVAPDSGVHMSEPVAHLPFSQALSSQQIASHMQLNIDSSEPAPLG
+# VHTQLHTNFSNLVNNIHDCERDQKNSVTTLHNNKDRRQPQPTLSRHQSSPQPIIIEQSVNSVFNLTDVSAEKMNEASVVIDIVSDSDENDNNCVSKQE
+# KSNLVVPAPLAIPTTPSSRQKKLKKEKRSKDREGQVAQNIRFGSKVSDGLLQSALAADSEIFSLSNSSMSSILSGDATLGNSQHKTRLSSSELTFTGR
+# FKSVNQLDVSNHSNSSFLAGQNSVFRNTESGKQKFDEYSAYDSSASCSRLSPSTVEEVRKSENLFDARLHNASAIQMAMPSSGMGYDPNSRPEYLENS
+# SQSQIPKRRGRKKGSKGVDGLIAKESSSLSQQIFFGGSTVKKVKTTKELFNEIQSRKLSVSMQSSTSNLSNSSTNRELASRAIFPRPTSSCSEPAITD
+# SDTVTSEPSHDSNKSQEIKECTSLESNSNSLHTLPLARTSENLMPNNFNDVTTQLMHLIHSLNSPLNEMEIEKMYQAQIVPCTCLVIEEVQSTLEESK
+# NATSDTDKNDPKTSLNYKENISHKHEENLLNFESVDNGEVGDTQPKPVKSIFDLDFDDNDDPLYSLMDEIRKPIANFEDSKNNSDTKNVSFSAPIQNV
+# ASNLISKNADAQLDNTNQEKESSETNNEVLPVFTVHEDPDCVAKQRFYIQTNKVTSFHINSLHNFYIPNINGNWDSVDSASSFQSENKCLHTLDSYTV
+# TDGADVVPKYGLLTSDRIKKDLSSLKFIKPFKAKQFKSLMAPFLGVAKCLPTCRRARNRVKEWLNSPNTANTFSKSLEVPEGNIEYKFNSSSPLEVNV
+# DVPISGTNSHNENHVPTQVNCNINISPSTKTLFGTSSVKAFSYNLLKLANDEVHFADPDKTDKSSDHEYQDDSPYRSSSSSSCSYSSLKATQNSINEK
+# LRNKRKDSSGTKSEVHRKNKRIYAEDVIKKKKQVRNEFNISVKRFKTSLNGTFSNLSSNNNSSDSDNGAENDNENEYENSNNEEYAIVQRPVGDGGAC
+# SNHIVLTIKKTPSKINSPANSMTAVSPNTTSDMGNVKKPLPNSFQEDLTKCQTEIPLEHCNVKSKTCRLASRPRNIRYRRTCRKQEKSQIRSIDLELK
+# HLFHLKPNTTDYSDIKLHNKLFFHHELCRENALGVKERIINYSSSSSSSYDDDSEVENTSAEDKKVKKSSSLETYNLKIETEMSAAAAISEANFESDL
+# DSYLTSLSDSDNGDQKELKEIDYTVNEGNDFQNNSMLQSFNSIFAESSVASIKLSPTKASLESQKIDNSDASNICFNNNNNLDVDLTMRRKSIESAES
+# TIKFPLLGVEYRTGIRSSSDVASTSIAEKNLTSFQQFKEWHQVLQLKSYNNEPLIVLPYVLLE]
+# Evidence for and against this transcript:
+# % of transcript supported by hints (any source): 0
+# CDS exons: 0/3
+# CDS introns: 0/2
+# 5'UTR exons and introns: 0/0
+# 3'UTR exons and introns: 0/0
+# hint groups fully obeyed: 0
+# incompatible hint groups: 0
+# end gene contig45.g1
+###
+# start gene contig45.g2
+contig45	AUGUSTUS	gene	19439	60000	1	-	.	ID=contig45.g2
+contig45	AUGUSTUS	transcript	19439	60000	.	-	.	ID=contig45.g2.t1;Parent=contig45.g2
+contig45	AUGUSTUS	stop_codon	19439	19441	.	-	0	Parent=contig45.g2.t1
+contig45	AUGUSTUS	CDS	19439	20272	.	-	0	ID=contig45.g2.t1.cds;Parent=contig45.g2.t1
+contig45	AUGUSTUS	CDS	21164	22090	.	-	0	ID=contig45.g2.t1.cds;Parent=contig45.g2.t1
+contig45	AUGUSTUS	CDS	53237	53354	.	-	1	ID=contig45.g2.t1.cds;Parent=contig45.g2.t1
+# protein sequence = [DRRYADMPPPGEDQSNEKEQSDLEMIKQLQLIRSRLLSQTHYVSMTDIDASAQQQQHLQNVQRLQHESCLQELHNQLS
+# SQFGAARFAAPNPHHQQQAVSVSSGNLVPFLPAFLQPPMPAQQLLQLIPGHASPQTVAHHSHPQNEPSSAHKMALAPMWSTAAVAAAHIQAALAAAAV
+# AAANSNQSSNNFSSNNNVLASSNIANEPSSADSSVSLPLMEIGEMRRGGNGGASLSRPESPAYENPPYAILSYSHNTPPESPHGRTAECSKNFPPSPM
+# DNHSMASLSEAQDSEMDAPLNLSKPKGSPSSSPNSSSQRDHSESLTPVVSSPPLSWHQGQQHYAEIESPLLKSHGRVWNSAVVGSGGSRATRMSRDSV
+# NSCGTNSERSAALDPETINPSQIGPVPPSPSSHPLRQGNGHGHGHGHSHGHGHSKPHIKRPMNAFMVWAKDERRKILKACPDMHNSNISKILGARWKA
+# MSNADKQPYYEEQSRLSKLHMEQHPDYRYRPRPKRTCIVDGKKMRISEYKVLMRNRRAEMRQLWCRTGGVSGSGSACADPCPKGHPGGSNAQAAVAAA
+# AAVYHLQDMASAAASTVHGNDCGHTPPQQFFYPPESLSPSGFSSDEVELASQRELDD]
+# Evidence for and against this transcript:
+# % of transcript supported by hints (any source): 83.3
+# CDS exons: 3/3
+#      P:   3 
+# CDS introns: 2/3
+#      P:   2 
+# 5'UTR exons and introns: 0/0
+# 3'UTR exons and introns: 0/0
+# hint groups fully obeyed: 0
+# incompatible hint groups: 9
+#      P:   9 (Sox102F-PA,Sox102F-PB,SoxN-PA,Sox100B-PA,Sox14-PA,Sox15-PA,D-PA,Sox21b-PA,Sox21a-PA)
+# end gene contig45.g2
+###
+# command line:
+# augustus --gff3=on --noInFrameStop=true --uniqueGeneId=true --species=human --introns=off --extrinsicCfgFile=/home/wilson/bin/augustus-3.2.2/config/extrinsic/extrinsic.MP.cfg --hintsfile=contig45_exonerate.hints ../src/contig45.fasta.masked

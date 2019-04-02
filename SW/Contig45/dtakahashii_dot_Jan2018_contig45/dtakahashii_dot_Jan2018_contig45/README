@@ -1,0 +1,106 @@
+*** Genomics Education Partnership 2018 ***
+Last Update: 01/02/2018
+
+
+INTRODUCTION
+============
+This directory contains files for the Genomics Education Partnership
+(GEP) Drosophila annotation projects. The goal of this project is to
+produce high quality annotations for the Muller F element of
+different Drosophila species via a student-scientist partnership. To
+learn more about the partnership, please visit us at
+http://gep.wustl.edu.
+
+This package contains some of the analyses that have been run on each
+contig sequence.  Additional analysis results are available at the
+GEP UCSC Genome Browser mirror at http://gander.wustl.edu.
+
+
+PACKAGE ORGANIZATION
+====================
+Each package contains a number of files that you might find useful:
+
+Contents of Package Root Directory
+----------------------------------
+Note: # corresponds to the contig number assigned to the project
+
+  src = contains the nucleotide sequence of the contig
+
+  analysis = results of analyses for each contig
+
+  Contents of the 'src' Directory:
+    - contig#.fasta
+      Nucleotide sequence of contig
+
+    - contig#.fasta.masked
+      Contig sequence with repeats masked as N's
+
+    - contig#.fasta.trf =
+      Contig sequence with tandem repeats masked as N's
+
+  Contents of the 'analysis' Directory:
+    - BLASTresults
+      blastx results searching the contig against the
+      D. melanogaster protein translation database
+
+    - Genefinder
+      Results from various gene finders
+
+    - Repeats
+      RepeatMasker analysis of the contig using a custom Drosophila
+      repeat library
+
+  README:
+    Describe the organization of each annotation package (this file)
+
+  projectReport_<region>_<release>_<projectname>.doc:
+    Annotation report that the annotator will submit to the GEP
+
+
+Additional BLAST Search Details
+-------------------------------
+  After masking species-specific repeats, blastx searches were run using
+    BLASTX 2.0MP-WashU [04-May-2006]
+
+  with the following parameters:
+    -B=1000000 -V=1000000 -hspmax=0 -matrix=PAM120 -Q=12 -R=4
+    -hspsepQmax=4500 -topComboN=1 -links -e=1e-10
+
+
+Contents of Genefinder Directory
+--------------------------------
+This directory contains the results from various gene predictors
+
+  - contig#.fasta.masked.<gene predictor>
+    Output from the <gene predictor>
+
+  -- contig#.<gene predictor>.pep
+    Tab delimited file listing the name of predicted gene and corresponding
+    predicted peptide sequence
+
+Gene prediction results from the following gene finders are also
+available on the GEP UCSC Genome Browser Mirror:
+
+  Genscan, Twinscan, Geneid, SGP2, Augustus, SNAP, GlimmerHMM
+
+
+Contents of Repeats Directory
+-----------------------------
+This directory contains the results of the RepeatMasker analysis.
+
+  - contig#.fasta.masked
+    Nucleotide sequence of the contig with repeats masked with N's
+
+  - contig#.fasta.out
+    List of repeats and their locations identified in this contig
+
+  - contig#.fasta.tbl
+    Summary table of all repeats identified in this contig
+
+
+QUESTIONS
+=========
+If you have any questions or encounter any issues with the
+annotation package, please contact Dr. Christopher Shaffer at
+shaffer<AT>wustl<DOT>edu or Wilson Leung at
+wleung<AT>wustl<DOT>edu.

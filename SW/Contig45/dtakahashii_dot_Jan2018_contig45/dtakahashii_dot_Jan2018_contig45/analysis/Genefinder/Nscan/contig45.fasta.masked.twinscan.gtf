@@ -1,0 +1,10 @@
+contig45	zoe2gtf	stop_codon	3067	3069	.	-	0	gene_id "contig45.001"; transcript_id "contig45.001.1";
+contig45	zoe2gtf	CDS	3070	5921	933	-	2	gene_id "contig45.001"; transcript_id "contig45.001.1";
+contig45	zoe2gtf	CDS	10674	10745	170	-	2	gene_id "contig45.001"; transcript_id "contig45.001.1";
+contig45	zoe2gtf	CDS	10803	11282	437	-	2	gene_id "contig45.001"; transcript_id "contig45.001.1";
+contig45	zoe2gtf	CDS	11700	12477	624	-	0	gene_id "contig45.001"; transcript_id "contig45.001.1";
+contig45	zoe2gtf	start_codon	12475	12477	.	-	0	gene_id "contig45.001"; transcript_id "contig45.001.1";
+contig45	zoe2gtf	stop_codon	19439	19441	.	-	0	gene_id "contig45.002"; transcript_id "contig45.002.1";
+contig45	zoe2gtf	CDS	19442	20272	1344	-	0	gene_id "contig45.002"; transcript_id "contig45.002.1";
+contig45	zoe2gtf	CDS	21164	22075	958	-	0	gene_id "contig45.002"; transcript_id "contig45.002.1";
+contig45	zoe2gtf	start_codon	22073	22075	.	-	0	gene_id "contig45.002"; transcript_id "contig45.002.1";
